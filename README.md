@@ -1,1 +1,2 @@
 # PACE-ML-Feature-Selection
+PACE-ML Feature Selection will run machine learning related feature selection operations on the user provided data. The feature selection tasks to execute on the data can be provided by user in a separate config file. This will simplify the task of feature selection for a data scientist where in the user will only have to specify select few parameter to generate the correct output instead of writing specific code for each individual feature selection tasks.
